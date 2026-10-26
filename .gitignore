@@ -1,0 +1,19 @@
+# Build outputs and local state
+.vs/
+.vscode/
+**/bin/
+**/obj/
+**/build/
+**/dist/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.user
+*.suo
+*.db
+*.db-*
+*.sqlite*
+.env
+.env.*
+*.log
